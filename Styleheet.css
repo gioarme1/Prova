@@ -1,0 +1,24 @@
+#Box {border: solid red 5px;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    margin: 20px;
+    background-color: darksalmon;
+    }
+
+#Box2 {border: solid black 5px;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    margin: 20px;
+    background-color: green;
+    }
+#Navbar {border: solid yellow 5px;
+        height: 100px;
+        text-align: left;
+        font-size: 50px;
+        line-height: 90px;
+
+
+
+}
